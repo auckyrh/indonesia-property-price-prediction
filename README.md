@@ -74,7 +74,7 @@ This is my second portfolio project for the **Apple Developer Institute for AI/M
 
 **Other Portfolio Projects:**
 - [LeafScan](https://github.com/auckyrh/LeafScan-iOS) - iOS plant disease detection app using Core ML
-- Next Level Properti [https://github.com/swrhythm/wpi-project]  - Property listing web application (Laravel)
+- [Next Level Properti](https://github.com/swrhythm/wpi-project)  - Property listing web application (Laravel) - [https://nextlevelproperti.com] 
 
 ## License
 
