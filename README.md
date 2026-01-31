@@ -83,4 +83,5 @@ MIT License - feel free to use this project for learning purposes.
 ## Contact
 
 - **GitHub:** [https://github.com/auckyrh]
+- **GitLab:** [https://gitlab.com/auckyrh]
 - **LinkedIn:** [https://www.linkedin.com/in/aucky/]
