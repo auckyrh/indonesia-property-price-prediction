@@ -73,8 +73,8 @@ Then open the notebook file in Jupyter or upload to Google Colab.
 This is my second portfolio project for the **Apple Developer Institute for AI/ML @ UC Surabaya** admission (Cohort 2026). It demonstrates my progression into machine learning while building on my full stack development background.
 
 **Other Portfolio Projects:**
-- [LeafScan](link-to-leafscan-repo) - iOS plant disease detection app using Core ML
-- Next Level Properti - Property listing web application (Laravel)
+- [LeafScan](https://github.com/auckyrh/LeafScan-iOS) - iOS plant disease detection app using Core ML
+- Next Level Properti [https://github.com/swrhythm/wpi-project]  - Property listing web application (Laravel)
 
 ## License
 
@@ -82,6 +82,5 @@ MIT License - feel free to use this project for learning purposes.
 
 ## Contact
 
-- **GitHub:** [your-github-username]
-- **LinkedIn:** [your-linkedin]
-- **Email:** [your-email]
+- **GitHub:** [https://github.com/auckyrh]
+- **LinkedIn:** [https://www.linkedin.com/in/aucky/]
